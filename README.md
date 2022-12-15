@@ -1,5 +1,4 @@
-👩‍💻  About Me : 
-I am a Front-End Developer from Brazil.
+ I am a Front-End Developer from Brazil.
 🔭 I’m working as a web developer and contributing to frontend and little bit of backend for building web applications.
 🌱 Exploring Technical Content Writing.
 ⚡ In my free time I solve problems on Mimo, Sololearn and GeeksforGeeks and read tech articles.
